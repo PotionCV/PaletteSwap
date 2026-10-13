@@ -1,0 +1,2 @@
+# .bat 必须是 CRLF，否则 Windows 上双击可能出问题
+*.bat text eol=crlf

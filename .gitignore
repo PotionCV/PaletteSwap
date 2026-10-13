@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.spec
+
+# 打包产物（exe 请发到 Releases，不要提交进仓库）
+build/
+dist/
+
+# 转换出来的图
+out/
+batchout/
+*.egg-info/
+.venv/
+venv/

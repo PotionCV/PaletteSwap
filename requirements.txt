@@ -1,0 +1,8 @@
+numpy
+pillow
+
+# 可选：装了才能把图片拖进窗口
+tkinterdnd2
+
+# 可选：只有要打包成 exe 才需要
+# pyinstaller
